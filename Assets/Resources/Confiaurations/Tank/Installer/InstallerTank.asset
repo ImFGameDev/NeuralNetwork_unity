@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be9cbaee5de34a8884096f5f70988bff, type: 3}
+  m_Name: InstallerTank
+  m_EditorClassIdentifier: 
+  _networkConfig: {fileID: 11400000, guid: c9b2b681f67d819489b7d265fad427e6, type: 2}
+  _trainingConfig: {fileID: 11400000, guid: c17865f32db55b7fc81f44b030a3a87a, type: 2}
+  _mutationConfig: {fileID: 11400000, guid: 97d851efcc1b1e344923640ede65446d, type: 2}
+  _rayConfig: {fileID: 11400000, guid: 1145156efb232bf7382891e58080f5d8, type: 2}
